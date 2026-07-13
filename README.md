@@ -1,0 +1,1 @@
+This is an in-progress Chip-8 emulator for the byui dev board. Once finished it will essentially be able to run any chip8 game. It requires an SD crad to store the rom files and a keypad to control as it does not map neatly onto the built-in joystick and buttons.  
